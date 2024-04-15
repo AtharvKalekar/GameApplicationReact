@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Grand Theft Auto V",
+    "description": "Explore the stunning open-world of Los Santos and Blaine County in Rockstar's groundbreaking action-adventure game.",
+    "category": "Action",
+    "image": "https://wallpapers.com/images/featured/gta-5-qpjtjdxwbwrk4gyj.jpg",
+    "priceInRupees": 2499,
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "The Witcher 3: Wild Hunt",
+    "description": "Become Geralt of Rivia, a monster slayer for hire, in this vast open-world RPG.",
+    "category": "RPG",
+    "image": "https://cdn1.epicgames.com/offer/14ee004dadc142faaaece5a6270fb628/EGS_TheWitcher3WildHuntCompleteEdition_CDPROJEKTRED_S1_2560x1440-82eb5cf8f725e329d3194920c0c0b64f",
+    "priceInRupees": 1999,
+    "rating": 4.8
+  },
+  {
+    "id": 3,
+    "name": "Red Dead Redemption 2",
+    "description": "Experience an epic tale of life in America's unforgiving heartland in Rockstar Games' critically acclaimed open-world Western game.",
+    "category": "Action",
+    "image": "https://techcrunch.com/wp-content/uploads/2018/10/rdr2-hero.png",
+    "priceInRupees": 2999,
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "description": "Step into a world of discovery, exploration, and adventure in this acclaimed open-world game.",
+    "category": "Adventure",
+    "image": "https://media.gq.com/photos/58c9b8e5ca736630b47208c5/16:9/w_1920,c_limit/BOTW-Share_icon.jpg",
+    "priceInRupees": 3999,
+    "rating": 4.9
+  },
+  {
+    "id": 5,
+    "name": "Super Mario Odysse",
+    "description": "Embark on a new journey with Mario and his new ally, Cappy, in a massive, globe-trotting 3D adventure.",
+    "category": "Adventure",
+    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/03/mario-from-super-mario-wonder-with-mario-from-super-mario-odyssey-1.jpg",
+    "priceInRupees": 1499,
+    "rating": 4.6
+  },
+  {
+    "id": 6,
+    "name": "Overwatch",
+    "description": "Join the fight for the future and choose your hero from a diverse cast of soldiers, scientists, adventurers, and oddities.",
+    "category": "FPS",
+    "image": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt60cb63e101127297/65c3e004d44e9bcb49e43a5c/OW2_S09_Launch_BlizzardLauncher_FranchisePhoenix_1920x1080.png",
+    "priceInRupees": 1999,
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "name": "Fortnite",
+    "description": "Jump into a massive 100-player Battle Royale and fight to be the last one standing in this popular online game.",
+    "category": "Battle Royale",
+    "image": "https://cdn2.unrealengine.com/social-image-chapter4-s3-3840x2160-d35912cc25ad.jpg",
+    "priceInRupees": 999,
+    "rating": 4.2
+  },
+  {
+    "id": 8,
+    "name": "Minecraft",
+    "description": "Create and explore your own virtual world, build structures, and survive against monsters in this sandbox game.",
+    "category": "Adventure",
+    "image": "https://wallpapers.com/images/featured/minecraft-s2kxfahyg30sob8q.jpg",
+    "priceInRupees": 1999,
+    "rating": 4.7
+  },
+  {
+    "id": 9,
+    "name": "FIFA 21",
+    "description": "Experience the latest installment of the world's most popular football simulation game, featuring improved graphics and gameplay.",
+    "category": "Sports",
+    "image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltfedbc032bbac9ca2/60db2364ed93bb0fb197a6fa/f7503bfbd076bcb69f0957343c00be42da8f388d.jpg?auto=webp&format=pjpg&width=3840&quality=60",
+    "priceInRupees": 2999,
+    "rating": 4.6
+  },
+  {
+    "id": 10,
+    "name": "Call of Duty: Warzone",
+    "description": "Enter the arena of 150-player Battle Royale, experience new modes, and fight to survive in this intense first-person shooter game.",
+    "category": "FPS",
+    "image": "https://wallpapers.com/images/hd/call-of-duty-warzone-4k-poster-jij79ziyns3oegfu.jpg",
+    "priceInRupees": 4999,
+    "rating": 4.3
+  },
+  {
+    "id": 11,
+    "name": "Assassin's Creed Valhalla",
+    "description": "Become Eivor, a legendary Viking raider, and lead your clan to settle in the rich lands of England's Dark Ages.",
+    "category": "Action",
+    "image": "https://techraptor.net/sites/default/files/styles/image_header/public/2020-11/ACV.jpg?itok=ffZ4sD8u",
+    "priceInRupees": 3499,
+    "rating": 4.7
+  },
+  {
+    "id": 12,
+    "name": "Cyberpunk 2077",
+    "description": "Enter the dangerous world of Night City, where power, glamour, and body modification are the norm in this futuristic open-world RPG.",
+    "category": "RPG",
+    "image": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S1_03_2560x1440-359e77d3cd0a40aebf3bbc130d14c5c7",
+    "priceInRupees": 2999,
+    "rating": 4.1
+  },
+  {
+    "id": 13,
+    "name": "Super Smash Bros. Ultimate",
+    "description": "Gather your favorite characters from various gaming franchises and battle it out in this ultimate crossover fighting game.",
+    "category": "Fighting",
+    "image": "https://variety.com/wp-content/uploads/2018/06/super-smash-ridley-twitter.png",
+    "priceInRupees": 2499,
+    "rating": 4.9
+  },
+  {
+    "id": 14,
+    "name": "Rocket League",
+    "description": "Combine soccer with driving in this high-octane, physics-based multiplayer game.",
+    "category": "Sports",
+    "image": "https://cdn1.epicgames.com/offer/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeague_PsyonixLLC_S1_2560x1440-bb7699fad7b5101432236737c8809214",
+    "priceInRupees": 1499,
+    "rating": 4.3
+  },
+  {
+    "id": 15,
+    "name": "Among Us",
+    "description": "Work together with crewmates to complete tasks on a spaceship, but beware of impostors among you in this multiplayer game.",
+    "category": "Multiplayer",
+    "image": "https://wallpapers.com/images/featured/among-us-cb21ldue3llceiua.jpg",
+    "priceInRupees": 199,
+    "rating": 4.7
+  },
+  {
+    "id": 16,
+    "name": "Animal Crossing: New Horizons",
+    "description": "Create your paradise on a deserted island, interact with charming animal villagers, and enjoy the peaceful life in this simulation game.",
+    "category": "Simulation",
+    "image": "https://img-eshop.cdn.nintendo.net/i/1194c35fb26a1ac0c46c60857ac80b7ebf5f054aa2132c443eb2ec3bad7782a4.jpg",
+    "priceInRupees": 3499,
+    "rating": 4.8
+  },
+  {
+    "id": 17,
+    "name": "League of Legends",
+    "description": "Choose from a roster of powerful champions and battle it out in this highly competitive online multiplayer game.",
+    "category": "MOBA",
+    "image": "https://images.ctfassets.net/vfkpgemp7ek3/1lqVpXAGDXmXIZT0jLgUls/f158d27e3452fa2e2b575b31533122e1/league-of-legends-wild-rift-500-million.jpeg",
+    "priceInRupees": 1499,
+    "rating": 4.6
+  },
+  {
+    "id": 18,
+    "name": "Counter-Strike: Global Offensive",
+    "description": "Join terrorists or counter-terrorists and engage in tactical first-person shooter battles in this classic game.",
+    "category": "FPS",
+    "image": "https://wallpapers.com/images/hd/counter-strike-global-offensive-desktop-gvy020lt6pjvnze8.jpg",
+    "priceInRupees": 499,
+    "rating": 4.5
+  },
+  {
+    "id": 19,
+    "name": "Tom Clancy's Rainbow Six Siege",
+    "description": "Lead your team of elite operators and engage in intense, tactical multiplayer battles in this acclaimed FPS game.",
+    "category": "FPS",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2022/05/Rainbow-Six-Mobile-featured.jpg",
+    "priceInRupees": 1499,
+    "rating": 4.4
+  },
+  {
+    "id": 20,
+    "name": "Apex Legends",
+    "description": "Choose your legend and team up with other players to become the last squad standing in this fast-paced Battle Royale game.",
+    "category": "Battle Royale",
+    "image": "https://media.steelseriescdn.com/blog/posts/apex-legends-guide-tips-and-tricks/3b4965a458fb41958c17ebf4d79475f0.webp",
+    "priceInRupees": 3999,
+    "rating": 4.2
+  }
+]
